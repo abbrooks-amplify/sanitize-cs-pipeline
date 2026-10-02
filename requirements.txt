@@ -1,0 +1,7 @@
+snowflake-connector-python
+requests
+pandas
+ipykernel
+dotenv
+keyring
+json
