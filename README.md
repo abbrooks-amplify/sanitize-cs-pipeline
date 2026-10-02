@@ -54,7 +54,7 @@ uv run main.py
 Null `TEXT_PREVIEW` rows are passed through with empty sanitized columns.
 
 ---
-## Useage notes
+## Usage notes
 ### Sanitation types
 
 The `sanitation_type` argument in `bulk_sanitize()` controls the redaction mode. Currently set to `encrypt_tokenized` in `main()`:
